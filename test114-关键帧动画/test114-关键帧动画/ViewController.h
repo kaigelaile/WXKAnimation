@@ -10,6 +10,6 @@
 #import <AVFoundation/AVFoundation.h>
 @interface ViewController : UIViewController
 @property(nonatomic,assign)SystemSoundID soundID;
-
+@property(nonatomic,strong)NSArray *sss;
 @end
 
