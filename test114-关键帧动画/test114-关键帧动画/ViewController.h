@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 @property(nonatomic,assign)SystemSoundID soundID;
 @property(nonatomic,strong)NSArray *sss;
+@property(nonatomic,strong)NSString *html1;
+@property(nonatomic,assign)SystemSoundID soundID1;
 @end
 
